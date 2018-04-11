@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Louder</string>
+    <string name="request_permission">Permission</string>
+</resources>
